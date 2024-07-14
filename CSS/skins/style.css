@@ -179,4 +179,9 @@ ul{
 .aside .nav li a i{
     margin-right: 15px;
 }
-
+.home .home-info{
+    flex: 0 0 60%;
+    max-width: 60%;
+    padding: 0 15px;
+    position: relative;
+}
