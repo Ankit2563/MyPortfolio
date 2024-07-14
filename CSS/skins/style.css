@@ -266,3 +266,13 @@ h3.my-profession{
     position: relative;
     margin-bottom: 60px;
 }
+
+.section-title h2::before{
+    content: "";
+    height: 4px;
+    width: 50px;
+    background-color: var(--skin-color);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
