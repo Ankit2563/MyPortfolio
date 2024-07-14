@@ -86,4 +86,11 @@ ul{
     top: 50px;
     font-size: 30px;
 }
+.aside .logo a{
+    color: var(--text-black-900);
+    padding: 15px 20px;
+    font-size: 30px;
+    letter-spacing: 5px;
+    font-weight: 700;
+}
 
