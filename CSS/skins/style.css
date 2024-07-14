@@ -8,3 +8,7 @@
     --text-black-900: #302e4d;
     --text-black-700: #504e70;
 }
+
+.padd-15{
+    padding : 0 15px;
+}
