@@ -27,6 +27,17 @@ body{
     font-size: 16px;
     font-family: poppins;
 }
+/* Add this to your CSS file */
+.circular-photo {
+    width: 150px; /* Adjust the size as needed */
+    height: 150px; /* Adjust the size as needed */
+    border-radius: 50%;
+    position: absolute;
+    top: 20px; /* Adjust the position as needed */
+    right: 20px; /* Adjust the position as needed */
+    object-fit: cover;
+    border: 2px solid #fff; /* Optional: Add a border */
+}
 
 .section{
     background:var(--bg-black-900);
