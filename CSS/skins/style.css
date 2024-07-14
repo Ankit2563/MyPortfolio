@@ -93,4 +93,7 @@ ul{
     letter-spacing: 5px;
     font-weight: 700;
 }
+.aside .logo a span{
+    font-family: "Clicker Script", cursive;
+}
 
