@@ -291,3 +291,7 @@ h3.my-profession{
     width: 100%;
     padding: 0 15px;
 }
+.about .about-content .about-text{
+    flex: 0 0 100%;
+    width: 100%;
+}
