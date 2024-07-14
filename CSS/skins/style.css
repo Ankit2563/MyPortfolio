@@ -51,3 +51,13 @@ body{
     margin: 0 -15px;
     position: relative;
 }
+.btn{
+    font-size: 16px;
+    font-weight: 500;
+    padding: 12px 35px;
+    background: var(--skin-color);
+    display: inline-block;
+    color: white;
+    border-radius: 40px;
+    transition: all 0.3s ease;
+}
