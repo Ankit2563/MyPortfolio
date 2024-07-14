@@ -172,3 +172,7 @@ ul{
     padding: 5px 15px;
     border-bottom: 1px solid var(--bg-black-50);
 }
+.aside .nav li .active{
+    color: var(--skin-color);
+}
+
