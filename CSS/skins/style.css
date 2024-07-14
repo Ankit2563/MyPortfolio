@@ -207,3 +207,13 @@ ul{
 .hire-me{
     margin-top: 20px;
 }
+.home-img::after{
+    content: "";
+    position: absolute;
+    bottom: 35px;
+    right: 35px;
+    border-bottom: 10px solid var(--skin-color);
+    border-right: 10px solid var(--skin-color);
+    height: 60px;
+    width: 60px;
+}
