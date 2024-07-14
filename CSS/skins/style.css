@@ -132,3 +132,10 @@ ul{
     justify-content: center;
     align-items: center;
 }
+.aside .nav-toggler span{
+    height: 2px;
+    width: 18px;
+    background: var(--skin-color);
+    display: inline-block;
+    position: relative;
+}
