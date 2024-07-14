@@ -250,3 +250,7 @@ h3.my-profession{
     margin: auto;
     border-radius: 5px;
 }
+.section .container{
+    padding-top: 60px;
+    padding-bottom: 70px;
+}
