@@ -64,3 +64,18 @@ body{
 .btn:hover{
     transform: scale(1.05);
 }
+.aside{
+    width: 270px;
+    position: fixed;
+    background-color: var(--bg-black-100);
+    top: 0;
+    left: 0;
+    height: 100%;
+    z-index: 10;
+    padding: 30px;
+    border-right: 1px solid var(--bg-black-50);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
