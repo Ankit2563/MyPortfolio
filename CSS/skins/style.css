@@ -107,4 +107,14 @@ ul{
     bottom: 0;
     left: 0;
 }
+.aside .logo a::after{
+    content: "";
+    position: absolute;
+    border-top: 5px solid var(--skin-color);
+    border-right: 5px solid var(--skin-color);
+    width: 20px;
+    height: 20px;
+    top: 0;
+    right: 0;
+}
 
