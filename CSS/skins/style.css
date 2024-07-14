@@ -301,3 +301,6 @@ h3.my-profession{
     font-weight: 700;
     color: var(--text-black-900);
 }
+.about .about-content .about-text span{
+    color: var(--skin-color);
+}
