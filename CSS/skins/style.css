@@ -15,3 +15,10 @@
 .shadow-dark{
     box-shadow: 0 0 20px rgba(46, 45, 77, 0.15);
 }
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    outline: none;
+    box-sizing: border-box;
+}
