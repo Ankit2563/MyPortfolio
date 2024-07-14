@@ -240,3 +240,8 @@ h3.my-profession{
     margin-bottom: 30px;
     color: var(--text-black-700);
 }
+.home{
+    display: flex;
+    min-height: 50vh;
+    color: var(--text-black-900);
+}
