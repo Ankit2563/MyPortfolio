@@ -45,3 +45,9 @@ body{
     width: 100%;
     margin: 20vh, auto;
 }
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -15px;
+    position: relative;
+}
